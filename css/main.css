@@ -8,8 +8,8 @@ body{
   background-color: #e0f2f1;
 }
 .lgo {
-  width: 10%px;
-  height: 100px;
+  width: 20%;
+  height: 200px;
   float: left;
 }
 .principal{
@@ -22,6 +22,7 @@ body{
 .barra-lateral{
   width: 25%;
   float: right;
+
 }
 
 table{
@@ -56,18 +57,67 @@ td{
 }
 ul {
   background-color: #8BC34A;
-  list-style: none;
+  list-style:decimal;
+  width: 550px;
+  font-family: Gadugi;
 }
 
 li a {
-padding: 15px;
+padding-bottom: 5px;
 display: block;
+
+color: #3949ab;
 }
 
 .pseudo {
   width: 30%;
 float: right;
+height: 270px;
+border-radius: 10px;
+padding-top:50px;
 }
-.resenia{
 
+.critica{
+  font-family: Segoe UI;
+  color: black;
+}
+h1{
+  font-family: Segoe UI;
+}
+.pie{
+  font-size: 12px;
+  font-family: comic sans;
+}
+h2{
+  color: #8d6e63;
+  font-family:Segoe UI;
+}
+.uno{
+  margin: 0 auto;
+  padding-left: 300px;
+  padding-top: 50px;
+  font-family: Verdana;
+  font-size: 25px;
+  color:   #1a237e ;
+  font-weight: bold;
+
+}
+
+.pie2{
+padding-top: 600px;
+    font-size: 12px;
+    font-family: comic sans;
+}
+.pie3{
+padding-top: 790px;
+    font-size: 12px;
+    font-family: comic sans;
+}
+ul.obras{
+  background-color: inherit;
+  width:25%;
+  list-style:none;
+  font-style: italic;
+  color:#263238;
+  font-size: 18px;
 }
