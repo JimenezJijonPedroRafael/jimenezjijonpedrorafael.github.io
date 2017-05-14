@@ -1,0 +1,73 @@
+.navegacion {
+  width: 50%;
+  display: inline-grid;
+  float: right;
+  padding-top: 0px:
+}
+body{
+  background-color: #e0f2f1;
+}
+.lgo {
+  width: 10%px;
+  height: 100px;
+  float: left;
+}
+.principal{
+  width: 75%;
+  float: left;
+    background-color: #cfd8dc;
+    border-radius: 4px;
+
+}
+.barra-lateral{
+  width: 25%;
+  float: right;
+}
+
+table{
+    width: auto;
+    float: left;
+    padding-top: 60px;
+    padding-left: 80px;
+}
+.contenido{
+  padding-top: 130px;
+
+}
+
+table a{
+  font-family: Arial;
+  color: red;
+  font-weight: bold;
+}
+
+
+td{
+  background-color: #B2DFDB;
+  height: 30px;
+  font-family: Arial bold black;
+  width: 150px;
+}
+.contenedor{
+  padding-left: 200px;
+  padding-right: 200px;
+
+
+}
+ul {
+  background-color: #8BC34A;
+  list-style: none;
+}
+
+li a {
+padding: 15px;
+display: block;
+}
+
+.pseudo {
+  width: 30%;
+float: right;
+}
+.resenia{
+
+}
